@@ -1,0 +1,108 @@
+{
+  "_comment": "SanjayOS-AI Content Store - Update this file to modify portfolio content",
+  "user": {
+    "name": "Sanjay Kumar",
+    "title": "Full Stack Developer & AI Enthusiast",
+    "bio": "Passionate developer specializing in modern web technologies, AI integration, and creating innovative user experiences. Building the future, one line of code at a time.",
+    "avatar": "/avatar.jpg",
+    "location": "San Francisco, CA",
+    "email": "sanjay@example.com",
+    "github": "sanjaykumar",
+    "leetcode": "sanjay_codes"
+  },
+  "resume": {
+    "summary": "Innovative Full Stack Developer with 5+ years of experience building scalable web applications and AI-powered solutions. Passionate about creating seamless user experiences and leveraging cutting-edge technologies to solve complex problems.",
+    "experience": [
+      {
+        "title": "Senior Full Stack Developer",
+        "company": "TechCorp Inc.",
+        "period": "2022 - Present",
+        "description": "Lead development of enterprise-scale applications using React, Node.js, and cloud technologies. Implemented AI-powered features that increased user engagement by 40%.",
+        "technologies": ["React", "TypeScript", "Node.js", "AWS", "OpenAI API"]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "StartupXYZ",
+        "period": "2020 - 2022",
+        "description": "Developed and maintained web applications serving 100K+ users. Built robust APIs and implemented real-time features using WebSocket technology.",
+        "technologies": ["JavaScript", "Python", "MongoDB", "Docker", "Kubernetes"]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "DigitalAgency",
+        "period": "2019 - 2020",
+        "description": "Created responsive web applications and interactive user interfaces for various clients. Focused on performance optimization and accessibility standards.",
+        "technologies": ["React", "Vue.js", "SASS", "Webpack", "Jest"]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of California",
+        "year": "2019",
+        "gpa": "3.8/4.0"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "ai-chat-platform",
+      "title": "AI Chat Platform",
+      "description": "Real-time chat application with AI-powered responses and smart conversation analytics.",
+      "longDescription": "A comprehensive chat platform that integrates multiple AI models to provide intelligent responses, conversation summaries, and user sentiment analysis. Built with modern web technologies and deployed on cloud infrastructure.",
+      "technologies": ["React", "TypeScript", "OpenAI API", "WebSocket", "PostgreSQL", "Redis"],
+      "github": "https://github.com/example/ai-chat-platform",
+      "demo": "https://ai-chat-demo.vercel.app",
+      "image": "/projects/ai-chat.jpg",
+      "status": "completed",
+      "featured": true
+    },
+    {
+      "id": "ecommerce-dashboard",
+      "title": "E-commerce Analytics Dashboard",
+      "description": "Advanced analytics dashboard for e-commerce businesses with real-time data visualization.",
+      "longDescription": "A powerful analytics dashboard that helps e-commerce businesses track sales, analyze customer behavior, and optimize their operations. Features interactive charts, real-time updates, and AI-powered insights.",
+      "technologies": ["Next.js", "TailwindCSS", "Chart.js", "Prisma", "PostgreSQL"],
+      "github": "https://github.com/example/ecommerce-dashboard",
+      "demo": "https://ecommerce-dash.vercel.app",
+      "image": "/projects/dashboard.jpg",
+      "status": "completed",
+      "featured": true
+    },
+    {
+      "id": "mobile-weather-app",
+      "title": "Smart Weather App",
+      "description": "Mobile-first weather application with AI-powered weather predictions and personalized recommendations.",
+      "longDescription": "An intelligent weather application that not only provides current weather data but also uses machine learning to predict weather patterns and give personalized recommendations for daily activities.",
+      "technologies": ["React Native", "OpenWeatherMap API", "TensorFlow.js", "SQLite"],
+      "github": "https://github.com/example/weather-app",
+      "demo": "https://weather-app-demo.netlify.app",
+      "image": "/projects/weather.jpg",
+      "status": "in-progress",
+      "featured": false
+    }
+  ],
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "Java", "Go"],
+    "frontend": ["React", "Vue.js", "Next.js", "TailwindCSS", "Framer Motion"],
+    "backend": ["Node.js", "Express", "FastAPI", "PostgreSQL", "MongoDB"],
+    "cloud": ["AWS", "Vercel", "Docker", "Kubernetes", "Supabase"],
+    "tools": ["Git", "VS Code", "Figma", "Postman", "Jest"],
+    "ai": ["OpenAI API", "Langchain", "TensorFlow", "Hugging Face", "Pinecone"]
+  },
+  "github": {
+    "username": "sanjaykumar",
+    "pinnedRepos": [
+      "ai-chat-platform",
+      "ecommerce-dashboard", 
+      "sanjayos-ai",
+      "leetcode-solutions"
+    ]
+  },
+  "stats": {
+    "githubStars": 150,
+    "githubCommits": 500,
+    "leetcodeSolved": 245,
+    "yearsExperience": 5
+  }
+}
